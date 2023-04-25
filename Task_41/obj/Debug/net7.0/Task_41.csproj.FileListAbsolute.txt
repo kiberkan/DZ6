@@ -1,0 +1,15 @@
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\bin\Debug\net7.0\Task_41.exe
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\bin\Debug\net7.0\Task_41.deps.json
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\bin\Debug\net7.0\Task_41.runtimeconfig.json
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\bin\Debug\net7.0\Task_41.dll
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\bin\Debug\net7.0\Task_41.pdb
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\Task_41.csproj.AssemblyReference.cache
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\Task_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\Task_41.AssemblyInfoInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\Task_41.AssemblyInfo.cs
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\Task_41.csproj.CoreCompileInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\Task_41.dll
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\refint\Task_41.dll
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\Task_41.pdb
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\Task_41.genruntimeconfig.cache
+C:\Users\kiber\Desktop\Учеба\DZ6\Task_41\obj\Debug\net7.0\ref\Task_41.dll
